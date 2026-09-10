@@ -41,4 +41,4 @@ Read about what I am learning, projects I am working on, and my experiences in d
 
 [GitHub](https://github.com/savionguyen6)
 
-[LinkedIn]([https://www.linkedin.com/in/savio-nguyen-5562ab33b/])
+[LinkedIn](https://www.linkedin.com/in/savio-nguyen-5562ab33b/)
