@@ -4,26 +4,48 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #111827;
+  background: #111827;
   color: #e5e7eb;
 }
 
-.site-header {
-  background-color: #0f172a;
+.wrapper {
+  max-width: 1100px;
+}
+
+header {
+  background: #0f172a;
   border-bottom: 1px solid #374151;
+  padding: 30px;
 }
 
-.site-title,
-.site-title:visited {
+header h1 a {
   color: #ffffff;
+  text-decoration: none;
 }
 
-.page-link {
-  color: #d1d5db !important;
+header p {
+  color: #9ca3af;
 }
 
-.page-link:hover {
-  color: #60a5fa !important;
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  margin-top: 25px;
+}
+
+.site-nav a {
+  color: #d1d5db;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.site-nav a:hover {
+  color: #60a5fa;
+}
+
+section {
+  color: #e5e7eb;
 }
 
 h1,
@@ -45,11 +67,8 @@ a:hover {
   color: #93c5fd;
 }
 
-.site-footer {
-  background-color: #0f172a;
+footer {
   border-top: 1px solid #374151;
-}
-
-.footer-heading {
-  color: #ffffff;
+  margin-top: 40px;
+  padding-top: 20px;
 }
