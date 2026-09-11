@@ -40,3 +40,5 @@ title: Projects
 ### RPP vs. Household Income
 ![RPP vs. Household Income](graphs/RPP_vs_Household_income.png)
 [View Interactive RPP vs. Household Income Graph](graphs/RPP_vs_Household_income.html)
+
+AI DISCLAIMER: Chatgpt and Google's AI assistant were used in the aid of retrieving variables that I struggled to access on my computer as well as find information on choropleth graphs (No prior knowledge). It was also used to help troubleshoot problems, as well as provide details that could be added to help with visuals. 
