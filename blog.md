@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-# My Blog
+# My Blog [← Back to Home](../index.md)
 
 Welcome to my blog!
 
