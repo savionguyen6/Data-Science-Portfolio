@@ -30,7 +30,6 @@ title: Projects
 [View Interactive Graph](../graphs/RPP_vs_highest_rate.html)
 ---
 ### Poverty Population by Population Group
-<img src="../graphs/poverty_population.png" width="1200">
 ![Poverty Population](../graphs/poverty_population.png)
 [View Interactive Graph](../graphs/poverty_population.html)
 ---
@@ -39,7 +38,6 @@ title: Projects
 [View Interactive Graph](../graphs/poverty_rates.html)
 ---
 ### Population vs. Poverty Rate
-<img src="../graphs/poverty_population.png" width="1200">
 ![Population vs. Poverty Rate](../graphs/population_vs_rate.png)
 [View Interactive Graph](../graphs/population_vs_rate.html)
 
