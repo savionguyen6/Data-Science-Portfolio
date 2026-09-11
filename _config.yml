@@ -2,3 +2,10 @@ title: Data Science Portfolio
 description: Documenting my learning in Data Structures
 theme: jekyll-theme-minimal
 show_downloads: false
+author:
+  name: Savio Nguyen
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+  - resume.md
