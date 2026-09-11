@@ -37,5 +37,6 @@ title: Projects
 ![Population vs. Poverty Rate](graphs/population_vs_rate.png)
 [Click here to interact with the Population vs. Poverty Rate graph](graphs/population_vs_rate.html)
 
-### RPP vs. Median Household Income
-
+### RPP vs. Household Income
+![RPP vs. Household Income](graphs/RPP_vs_Household_income.png)
+[View Interactive RPP vs. Household Income Graph](graphs/RPP_vs_Household_income.html)
