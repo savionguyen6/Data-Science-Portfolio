@@ -41,6 +41,9 @@ title: Projects
 ![Population vs. Poverty Rate](../graphs/population_vs_rate.png)
 [View Interactive Graph](../graphs/population_vs_rate.html)
 
+## Code
+[View the Python Code](../Project01.ipynb)
+
 ## References
 U.S. Census Bureau. (2023). American Community Survey 1-year data [Data set]. https://api.census.gov/data/2023/acs/acs1
 
