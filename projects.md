@@ -14,7 +14,7 @@ title: Projects
 [Click here to interact with the RPP Map](graphs/RPP.html)
 ---
 ### Highest Poverty Group by State
-![Highest Poverty Group by State](graphs/AHP.png)
+![Highest Poverty Group by State](graphs/APH.png)
 [Click here to interact with the Highest Poverty Group by State graph](graphs/highest_poverty_group.html)
 ---
 ### RPP vs. Highest Poverty Population
