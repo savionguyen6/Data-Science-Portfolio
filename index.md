@@ -37,6 +37,13 @@ Read about what I am learning, projects I am working on, and my experiences in d
 
 ---
 
+## Resume
+
+View my current resume.
+
+[View My Resume](resume.md)
+
+---
 ## Let's Connect
 
 [GitHub](https://github.com/savionguyen6)
