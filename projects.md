@@ -5,4 +5,4 @@ title: Projects
 
 # My Projects
 
-## [US Racial Poverty Project](projects/US-Racial-Poverty-Project.md)
+## [US Racial Poverty Project](projects/US-Racial-Poverty.md)
