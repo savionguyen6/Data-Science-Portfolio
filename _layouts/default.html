@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+  <meta charset="utf-8">
+
+  {% seo %}
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+  <header>
+
+    <h1>
+      <a href="{{ "/" | relative_url }}">
+        {{ site.title }}
+      </a>
+    </h1>
+
+    {% if site.description %}
+      <p>{{ site.description }}</p>
+    {% endif %}
+
+    <nav class="site-nav">
+
+      <a href="{{ "/" | relative_url }}">Home</a>
+
+      <a href="{{ "/about.html" | relative_url }}">About Me</a>
+
+      <a href="{{ "/projects.html" | relative_url }}">Projects</a>
+
+      <a href="{{ "/blog.html" | relative_url }}">Blog</a>
+
+      <a href="{{ "/resume.html" | relative_url }}">Resume</a>
+
+      <a href="https://github.com/savionguyen6" target="_blank">GitHub</a>
+
+      <a href="https://www.linkedin.com/in/savio-nguyen-5562ab33b/" target="_blank">LinkedIn</a>
+
+    </nav>
+
+  </header>
+
+  <section>
+
+    {{ content }}
+
+  </section>
+
+  <footer>
+
+    <p>© {{ site.time | date: '%Y' }} Savio Nguyen</p>
+
+  </footer>
+
+</div>
+
+</body>
+</html>
