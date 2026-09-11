@@ -3,7 +3,7 @@ layout: page
 title: Projects
 ---
 
-# My Projects
+# My Projects [← Back to Home](../index.md)
 
 ## Project 1 — U.S. Poverty Analysis
 
