@@ -1,11 +1,15 @@
-title: Data Science Portfolio
+title: Savio Nguyen | Data Science Portfolio
 description: Documenting my learning in Data Structures
 theme: jekyll-theme-minimal
-show_downloads: false
+
 author:
   name: Savio Nguyen
+
 header_pages:
   - about.md
   - projects.md
   - blog.md
   - resume.md
+
+github_url: "https://github.com/savionguyen6"
+linkedin_url: "https://www.linkedin.com/in/savio-nguyen-5562ab33b/"
