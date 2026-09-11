@@ -41,6 +41,11 @@ title: Projects
 ![RPP vs. Household Income](graphs/RPP_vs_Household_income.png)
 [View Interactive RPP vs. Household Income Graph](graphs/RPP_vs_Household_income.html)
 
-US Census API https://data.census.gov/all?y=2024&d=ACS+5-Year+Estimates+Detailed+Tables
+## References
+U.S. Census Bureau. (2023). American Community Survey 1-year data [Data set]. https://api.census.gov/data/2023/acs/acs1
+
+U.S. Bureau of Economic Analysis. (2023). Regional price parities by state [Data set]. https://apps.bea.gov/api/data/
+
+Plotly. (n.d.). Choropleth maps in Python. https://plotly.com/python/choropleth-maps/
 
 AI DISCLAIMER: Chatgpt and Google's AI assistant were used in the aid of retrieving variables that I struggled to access on my computer as well as find information on choropleth graphs (No prior knowledge). It was also used to help troubleshoot problems, as well as provide details that could be added to help with visuals. 
