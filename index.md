@@ -10,19 +10,9 @@ I am a data science student developing my skills in Python, data analysis, stati
 
 ## Explore My Portfolio
 
-### [About Me](about.md)
+### [About Me](about.md) ### [Projects](projects.md) ### [Blog](blog.md) ### [Resume](resume.md)
 
-Learn more about me, my skills, and my goals.
-
-### [Projects](projects.md)
-
-### [Blog](blog.md)
-
-### [Resume](resume.md)
-
-### [GitHub](https://github.com/savionguyen6)
-
-### [LinkedIn](https://www.linkedin.com/in/savio-nguyen-5562ab33b/)
+### [GitHub](https://github.com/savionguyen6) ### [LinkedIn](https://www.linkedin.com/in/savio-nguyen-5562ab33b/)
 ---
 
 ## Featured Project
