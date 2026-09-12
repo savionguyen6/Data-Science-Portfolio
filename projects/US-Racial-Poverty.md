@@ -50,6 +50,8 @@ To find the relationship between RPP and Median Household Income, I created a sc
 
 [View Interactive Graph](../graphs/highest_poverty_group.html)
 
+This map dispalys the whole of the United States and shows which state expeirnces the highest racial poverty of a certian group.
+
 ---
 ### Poverty Population by Population Group
 
@@ -58,6 +60,13 @@ To find the relationship between RPP and Median Household Income, I created a sc
 [View Interactive Graph](../graphs/poverty_population.html)
 
 ---
+
+### Highest Poverty Population by State
+
+[View Interactive Graph](../graphs/highest_poverty_population.html)
+
+---
+
 ### RPP vs. Highest Poverty Population
 ![RPP vs. Highest Poverty Population](../graphs/RPP_vs_highest_population.png)
 
