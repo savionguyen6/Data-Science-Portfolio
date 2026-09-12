@@ -55,6 +55,7 @@ This map dispalys the whole of the United States and shows which state expeirnce
 ---
 
 ### Highest Poverty Population by State
+![Highest Poverty Population by State](../graphs/highest_population_group.png)
 
 [View Interactive Graph](../graphs/highest_poverty_population.html)
 
