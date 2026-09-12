@@ -17,9 +17,7 @@ But you may ask: how is there such a thing as poverty? Why are so many living in
 ---
 
 ## Data Description
-The data used in this project comes from the U.S. Census Bureau and the U.S. Bureau of Economic Analysis. Both conduct their own data collection from those willing to provide their data and information, and they also conduct their own research to obtain it. From the U.S. Census Bureau, variables such as total population size and the total population size in poverty of different racial groups are collected from each state in the U.S. Not only is there
-
-
+The data used in this project comes from the U.S. Census Bureau and the U.S. Bureau of Economic Analysis. Both conduct their own data collection from those willing to provide their data and information, and they also conduct their own research to obtain it. From the U.S. Census Bureau, variables such as total population size and the total population size in poverty of different racial groups are collected from each state in the U.S. Not only is there data on population size, but also median household income and RPP. What is RPP, you may ask? Well, it stands for Regional Price Parities, and it is used to measure the change in prices for states relative to the national average. The national average is 100 RPP, and you can either be above it or below it; it is used by many researchers to study regional cost-of-living differences, poverty rates, and real personal income. Both data sets contain a total of 11 variables for the project to use, but even with so little, they contain important information about the poverty present in the U.S. during 2023 that can be used to help answer the research question asked. However, even with this data, there are always weaknesses such as biases, missing information, and the lack of reliability of the data that can sway the conclusion of the project.
 
 ### Interactive Graphs
 
