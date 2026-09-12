@@ -59,6 +59,8 @@ This map displays every state in the United States, and each state is colored ba
 
 [View Interactive Graph](../graphs/highest_poverty_population.html)
 
+This map displays every state in the United States, and each state is colored based on which racial group has the highest population in poverty. A major turnaround compared to the previous graph, the white racial group is actually facing a higher number of individuals in poverty. For information that is known or not on where certain ethnic groups choose to live, many white racial groups tend to stick to the northern and Midwestern regions, while the black racial groups tend to live in the southern regions, with Hispanics in the Southwest, and Asians in coastal states. Based on the information displayed in this map, it follows that trend pretty accurately, and it suggests that the majority in poverty is the white community, with the knowledge that the black community has a smaller population compared to the white and Hispanic communities but still has a fair-sized number in poverty to cause such high rates; since the white community has such a big total population size, their rate would be drawn lower.
+
 ---
 
 ### RPP vs. Highest Poverty Population
