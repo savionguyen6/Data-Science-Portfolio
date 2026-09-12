@@ -1,9 +1,4 @@
----
-layout: page
-title: Projects
----
-
-# My Projects [← Back to Home](../index.md)
+# My Projects
 
 ## Project 1 — U.S. Poverty Analysis
 
