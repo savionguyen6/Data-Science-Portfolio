@@ -11,6 +11,7 @@ title: Projects
 
 ### RPP Map
 ![RPP Map](../graphs/RPP.png)
+
 [View Interactive RPP Map](../graphs/RPP.html)
 ---
 ### RPP vs. Household Income
