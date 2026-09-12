@@ -50,7 +50,7 @@ To find the relationship between RPP and Median Household Income, I created a sc
 
 [View Interactive Graph](../graphs/highest_poverty_group.html)
 
-This map dispalys the whole of the United States and shows which state expeirnces the highest racial poverty of a certian group.
+This map displays every state in the United States, and each state is colored based on which racial group has the highest rate of poverty. Based on the graph, there is a clear answer to the research question: the black racial group experiences a higher rate of poverty in relation to the cost of living. Compared with the RPP graph, the black racial poverty rate is the highest compared to the white, asian, and Hispanic poverty rates. No matter whether it has the highest RPP or the lowest, throughout the entire region of the US north, east, south, or west the black comminity is the majority of the poverty.
 
 ---
 
