@@ -1,8 +1,3 @@
----
-layout: page
-title: Resume
----
-
 # Resume
 
 Here you can find my current resume.
