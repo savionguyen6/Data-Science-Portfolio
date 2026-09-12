@@ -27,6 +27,8 @@ The data used in this project comes from the U.S. Census Bureau and the U.S. Bur
 
 [View Interactive RPP Map](../graphs/RPP.html)
 
+
+
 ---
 ### RPP vs. Household Income
 ![RPP vs. Household Income](../graphs/RPP_vs_Household_income.png)
@@ -51,18 +53,6 @@ The data used in this project comes from the U.S. Census Bureau and the U.S. Bur
 ![RPP vs. Highest Poverty Rate](../graphs/RPP_vs_highest_rate.png)
 
 [View Interactive Graph](../graphs/RPP_vs_highest_rate.html)
-
----
-### Poverty Population by Population Group
-![Poverty Population](../graphs/poverty_population.png)
-
-[View Interactive Graph](../graphs/poverty_population.html)
-
----
-### Poverty Rates by Population Group
-![Poverty Rates](../graphs/poverty_rates.png)
-
-[View Interactive Graph](../graphs/poverty_rates.html)
 
 ---
 ### Population vs. Poverty Rate
