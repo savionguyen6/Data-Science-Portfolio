@@ -1,15 +1,23 @@
 # My Projects
 
+---
+
 ## Project 1 — U.S. Poverty Analysis
 
+---
 
 ## Research Question: Does the state's cost of living in the US relate to the poverty rate of different racial groups, and which states affect certain groups the most?
+
+---
 
 ## What's The Problem
 Around the world, there are many problems: the lack of certain necessities. Food, water, resources, money, and a plethora of other items that can sustain a person, family, or racial group. To a point, every single country deals with this problem, and to say none do is a lie. The problem of poverty: instead of looking at the whole world in this project, it will look at the country with the greatest wealth and the greatest debt: the United States of America. The US may have some of the wealthiest people with full pockets or just enough, but there are many with empty pockets, just specks of dust in them, or just scraping by. Poverty is a problem that can affect anyone; it can take anyone and bring them lower, as it's not Cinderella's glass slipper- white, black, asian, or Hispanic; it's a problem all racial groups deal with. Some more than others, but it's there; it exists, and it's a problem in America.
 But you may ask: how is there such a thing as poverty? Why are so many living in such poor conditions while others are doing just fine? There are many factors that could cause such an outcome, but this project will look into the relationship between poverty among different racial groups and the cost of living.
 
+---
+
 ## Data Description
+The data used in this project comes from the U.S. Census Bureau and the U.S. Bureau of Economic Analysis. Both conduct their own data collection from those willing to provide their data and information, and they also conduct their own research to obtain it. From the U.S. Census Bureau, variables such as total population size and the total population size in poverty of different racial groups are collected from each state in the U.S. Not only is there
 
 
 
