@@ -1,7 +1,3 @@
----
-layout: home
-title: Savio Nguyen | Data Science Portfolio
----
 # Savio Nguyen
 ## Data Science Student
 Welcome to my data science portfolio.
