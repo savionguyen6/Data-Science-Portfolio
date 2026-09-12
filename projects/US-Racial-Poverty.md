@@ -2,8 +2,7 @@
 
 ## Project 1 — U.S. Poverty Analysis
 
-## Research Question:
-Does the state's cost of living in the US relate to the poverty rate of different racial groups, and which states affect certain groups the most?
+## Research Question: Does the state's cost of living in the US relate to the poverty rate of different racial groups, and which states affect certain groups the most?
 
 ### Interactive Graphs
 
