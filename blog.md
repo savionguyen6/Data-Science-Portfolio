@@ -3,7 +3,7 @@ layout: page
 title: Blog
 ---
 
-# My Blog [← Back to Home](../index.md)
+# My Blog [← Back to Home](https://savionguyen6.github.io/Data-Science-Portfolio/)
 
 Welcome to my blog!
 
