@@ -1,3 +1,3 @@
-# My Projects [← Back to Home](https://savionguyen6.github.io/Data-Science-Portfolio/)
+# My Projects
 
 ## [US Racial Poverty Project](projects/US-Racial-Poverty.md)
