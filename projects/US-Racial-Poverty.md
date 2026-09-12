@@ -42,6 +42,13 @@ The data used in this project comes from the U.S. Census Bureau and the U.S. Bur
 [View Interactive Graph](../graphs/highest_poverty_group.html)
 
 ---
+### Poverty Population by Population Group
+
+![Poverty Population](../graphs/poverty_population.png)
+
+[View Interactive Graph](../graphs/poverty_population.html)
+
+---
 ### RPP vs. Highest Poverty Population
 ![RPP vs. Highest Poverty Population](../graphs/RPP_vs_highest_population.png)
 
