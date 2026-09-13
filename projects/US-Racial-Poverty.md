@@ -68,6 +68,12 @@ This map displays every state in the United States, and each state is colored ba
 [View Interactive Graph](../graphs/population_vs_rate.html)
 
 ---
+## Finale
+
+So the answer would be that the cost of living does not have a direct effect on the disparity of a certain racial group in a state, but it can push to further increase poverty rates for certain groups like the black and Hispanic communities.
+
+---
+
 ## Code
 [View the Python Code](../Project01.ipynb)
 
