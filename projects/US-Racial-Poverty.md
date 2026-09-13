@@ -63,24 +63,25 @@ This map displays every state in the United States, and each state is colored ba
 
 ---
 ## Finale
-
-So the answer would be that the cost of living does not have a direct effect on the disparity of a certain racial group in a state, but it can push to further increase poverty rates for certain groups like the black and Hispanic communities.
+During my research and data visualization, I identified ideas and results to interpret. First, to answer the research question, "Does the state's cost of living in the US relate to the poverty rate of different racial groups, and which states affect certain groups the most?" I can firmly say it does not have a direct effect on which racial group is more affected than another by a state's cost of living (RPP). Second, when it comes to racial groups, it's more of a historical influence and modern influences, as well as the regions in which racial groups live. To say again, in which regions racial groups live, such as Hispanics and blacks, will see a higher rate of poverty even if the cost of living is high or low, as there are many factors to keep in mind: racial biases that influence wages, employment, and other factors that pose ways to make a living. Third, to conclude between rate and population, the rate has the majority of the black community, with Hispanics close behind, while the population has the majority of the white community, as they are the largest group of individuals in poverty.
+Back on track, the answer is that the cost of living does not have a direct effect on the disparity of a certain racial group in a state, but it can push poverty rates to increase further for certain groups like the black and Hispanic communities. The high cost of living does not create the gap between racial groups. Instead, it acts like a magnifier, multiplying the rate. It makes existing problems much worse for vulnerable communities.
 
 ---
+## Limitations and Reflection
+During and after completing this project, there was room for improvement. There could be more additions to the project, more detail, and more factors and variables that could be included, but given the scope, I completed the work on time and efficiently with what I had. Given more time, the possibility to further dive into the work to include more data, variables such as immigration, racial biases, regional data, and further expand the idea of cost of living in its specific aspects, this project could be narrower or more detailed than the final product in its current state. While creating the visualizations for the project, I could see many skews and nulls in the data. As data can be missing for certain groups, it can lead to wrong outcomes that are not faults of the data but of the collection of it. To note, biases are in play: some may choose not to answer questions that they may find too personal, be easily offended by, or prefer not to admit, as it could be a shame. Another bias is that some may not be reachable, as some live without access to this survey due to a lack of technology or communication, or the region or geography they live in. Biases are a problem with data, as they can affect and skew outcomes, and these biases are evident, as it is understandable that some may not want to admit they are living a hard life. The research question and its outcome did not meet my expectations, but there is room for improvement. Looking back on it, a broad topic, a question with too much behind it, and a lot of information and detail to uncover, but not impossible to pinpoint. Poverty is a major problem in this country and not just this country; it's a problem everywhere, and it's worth putting research into, as people should not be living in disparity because of the color of their skin or the background they associate with, and the power of money has put so many in financial and physical trouble.
+
 
 ## Code
 [View the Python Code](../Project01.ipynb)
 
 ## References
 
-Worldometer. (2024). GDP by country. https://www.worldometers.info/gdp/gdp-by-country/
-
-World Population Review. (n.d.). Countries by national debt. https://worldpopulationreview.com/country-rankings/countries-by-national-debt
-
 U.S. Census Bureau. (2023). American Community Survey 1-year data [Data set]. https://api.census.gov/data/2023/acs/acs1
 
 U.S. Bureau of Economic Analysis. (2023). Regional price parities by state [Data set]. https://apps.bea.gov/api/data/
 
 Plotly. (n.d.). Choropleth maps in Python. https://plotly.com/python/choropleth-maps/
+
+Plotly. (n.d.). Line and scatter plots. https://plotly.com/python/line-and-scatter/
 
 AI DISCLAIMER: Chatgpt and Google's AI assistant were used in the aid of retrieving variables that I struggled to access on my computer as well as find information on choropleth graphs (No prior knowledge). It was also used to help troubleshoot problems, as well as provide details that could be added to help with visuals. 
