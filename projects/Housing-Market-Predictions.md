@@ -8,6 +8,12 @@ The homes we live in, newly built or not, passed down from the past generation o
 
 This project will specifically look at the housing market in North Carolina and will use variables such as active listings, building permits, homes sold, housing units, median household income, mortgage rate, new listings, and population. All these variables will help determine/predict the Zillow Home Value Index (ZHVI) of North Carolina in 2025.
 
+## Data Description
+
+The data used in this project comes from several reliable sources, including the U.S. Census Bureau, Zillow, Freddie Mac, and the U.S. Bureau of Labor Statistics. These sources collect data that can help explain changes in the housing market. The U.S. Census Bureau provides information such as population, number of housing units, and median household income. The Census Bureau also provides building permit data, which shows the number of new homes that are approved to be built. Zillow provides housing price data that can be used to see how home prices have changed over time. Freddie Mac provides mortgage rate data, which can help show how borrowing costs can affect housing prices. The Bureau of Labor Statistics provides unemployment data that can also help explain changes in the economy and housing market.
+
+These variables provide important information that can be used to answer the research question, “How will the housing market in North Carolina change in the next year?” By looking at past housing prices and other factors such as population, income, housing units, and mortgage rates, the project can find patterns that may help predict future housing prices. However, there are some weaknesses in the data. Housing prices can be affected by many things that are not included in the project, such as changes in the economy, interest rates, and buyer behavior. Because of this, the model can only provide an estimate of what may happen to the housing market and cannot guarantee what will happen.
+
 ## References
 
 U.S. Census Bureau. (n.d.). American Community Survey data via API. U.S. Department of Commerce. Retrieved September 29, 2026. Census ACS API
