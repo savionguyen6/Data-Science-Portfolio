@@ -15,6 +15,10 @@ The data used in this project comes from several reliable sources, including the
 
 These variables provide important information that can be used to answer the research question, “How will the housing market in North Carolina change in the next year?” By looking at past housing prices and other factors such as population, income, housing units, and mortgage rates, the project can find patterns that may help predict future housing prices. However, there are some weaknesses in the data. Housing prices can be affected by many things that are not included in the project, such as changes in the economy, interest rates, and buyer behavior. Because of this, the model can only provide an estimate of what may happen to the housing market and cannot guarantee what will happen.
 
+## Data Cleaning and Preparation
+
+When it came to starting this project, I was gonna need many variables, and handling them was a task. Collecting them was a task, but in the end I had them; it came down to how to proceed. Most of the data was downloaded as a csv, meaing I could just look at each csv file and see what was missing, was matched, what did not, and what was useful to help futhure this project along.
+
 ## References
 
 U.S. Census Bureau. (n.d.). American Community Survey data via API. U.S. Department of Commerce. Retrieved September 29, 2026. Census ACS API
