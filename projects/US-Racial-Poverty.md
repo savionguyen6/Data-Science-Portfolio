@@ -84,4 +84,4 @@ Plotly. (n.d.). Choropleth maps in Python. https://plotly.com/python/choropleth-
 
 Plotly. (n.d.). Line and scatter plots. https://plotly.com/python/line-and-scatter/
 
-AI DISCLAIMER: Chatgpt and Google's AI assistant were used in the aid of retrieving variables that I struggled to access on my computer as well as find information on choropleth graphs (No prior knowledge). It was also used to help troubleshoot problems, as well as provide details that could be added to help with visuals. 
+AI DISCLAIMER: ChatGPT and Google's AI assistant were used to retrieve variables that I struggled to access on my computer, as well as to find information on choropleth graphs (No prior knowledge). They were also used to help troubleshoot problems, as well as to provide details that could be added to help with visuals. 
