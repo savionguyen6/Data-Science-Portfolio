@@ -17,7 +17,13 @@ These variables provide important information that can be used to answer the res
 
 ## Data Cleaning and Preparation
 
-When it came to starting this project, I was gonna need many variables, and handling them was a task. Collecting them was a task, but in the end I had them; it came down to how to proceed. Most of the data was downloaded as a csv, meaing I could just look at each csv file and see what was missing, was matched, what did not, and what was useful to help futhure this project along.
+When it came to starting this project, I was gonna need many variables, and handling them was a task. Collecting them was a task, but in the end I had them; it came down to how to proceed. Most of the data was downloaded as a CSV, meaning I could look at each CSV file and see what was missing, what was matched, what was not, and what was useful to help further this project along. Before discussing the next step, I should say that the sources of these datasets are potentially trustworthy sources of information; no one can say 100% that something is credible, but it is reasonable to trust that these organizations that provided such data are trustworthy sources of information to be used.  
+
+When it came to cleaning the data, it was only a bit of a nuisance because the 2020 data conflicted with the data, as many things caused problems due to the lack of data. COVID was a problem, leaving many missed and uncollected data. So, in relation to this project, 2020 data had to be omitted from the final dataset that would be created with all necessary data from all variables and from the time period they are from.
+
+With that information handled, moving on to each dataset. Each collected source contained a full set for the United States, so there would be no need to collect only North Carolina data to help answer the research question. After collecting each variable within each dataset for a specific, tailored time period, which was from 2005 to 2024, excluding 2020, I could finally create a whole dataset for this project with its specific features.
+
+However, it was not done because, looking at the CSV files, there was one that did not hold data going back as far as 2005, but only to 2019. So, a decision had to be made. Omit this CSV file with its variables because it did not have data starting from 2005, or only use data from all files starting from 2019. I chose to keep the file, include it in the final dataset, and start from 2019. The decision came from the thought that modern data would be more effective than stretching back to historical data, because looking at the closer economic standing with the present would provide a more accurate prediction.
 
 ## References
 
