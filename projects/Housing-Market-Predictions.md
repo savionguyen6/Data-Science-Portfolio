@@ -1,5 +1,6 @@
 ## Project 2 — Is it Possible to Predict North Carolina's Housing Market?
 
+
 ## What's the Problem
 
 From the beginning, when the world formed, the first creature that was not a single-celled organism roamed the sea. Living in its world, its home, some find it or even have to make it, and that idea has not changed for land-bound creatures as well. Finding shelter from the elements, from prey, from any danger that surrounds them. A home is a place many desire to have. From the first man who crafted his home from mud and sticks when he thought a cave or under a tree was not enough, to building structures of mass with stone in the ancient world, and now to the modern era of concrete, metal, and more. But none came free; none came without waste or trade, and so a deal had to be made. 
