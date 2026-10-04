@@ -35,6 +35,7 @@ However, it was not done because, looking at the CSV files, there was one that d
 ## Findings
 
 ---
+## Graphs
 
 ## Correlation Heatmap & OLS
 ![OLS model](../graphs/OLS.png)
@@ -45,8 +46,12 @@ The OLS model using 2019–2024 data explained 98.3% of the variation in North C
 ## Scatter Regression Trend
 ![ZHVI regression relationships](../graphs/ZHVI_regression_relationships.png)
 
+What can be said is that each scatter plot shows the relationship between each variable and the target variable, ZHVI. These graphs show that as North Carolina has grown, housing prices have also gone up. Population, housing units, and household income all move upward with housing prices, while things like homes sold, new listings, and active listings move downward. This shows that even though there are changes in the housing market, the price of homes has continued to rise.
+
 ## Market Trends
 ![recent market trends 2019 onward](../graphs/recent_market_trends_2019_onward.png)
+
+These graphs show how much the North Carolina housing market has changed from 2019 to 2025. The population, number of housing units, and household income have all increased, while homes sold and the number of homes available have generally gone down. At the same time, housing prices continued to rise, showing that homes have become more expensive even while some parts of the housing market have slowed down or taken dips.
 
 ## Training and Testing
 
