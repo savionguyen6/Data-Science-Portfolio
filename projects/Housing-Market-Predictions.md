@@ -25,6 +25,10 @@ With that information handled, moving on to each dataset. Each collected source 
 
 However, it was not done because, looking at the CSV files, there was one that did not hold data going back as far as 2005, but only to 2019. So, a decision had to be made. Omit this CSV file with its variables because it did not have data starting from 2005, or only use data from all files starting from 2019. I chose to keep the file, include it in the final dataset, and start from 2019. The decision came from the thought that modern data would be more effective than stretching back to historical data, because looking at the closer economic standing with the present would provide a more accurate prediction.
 
+## Finale
+
+## Limitations and Reflection
+
 ## References
 
 U.S. Census Bureau. (n.d.). American Community Survey data via API. U.S. Department of Commerce. Retrieved September 29, 2026. Census ACS API
