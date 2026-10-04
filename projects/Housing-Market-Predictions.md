@@ -34,9 +34,6 @@ However, it was not done because, looking at the CSV files, there was one that d
 
 ## Findings
 
----
-## Graphs
-
 ## Correlation Heatmap & OLS
 ![OLS model](../graphs/OLS.png)
 ![Correlation Heatmap](../graphs/recent_correlation_heatmap.png)
