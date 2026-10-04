@@ -48,6 +48,11 @@ The OLS model using 2019–2024 data explained 98.3% of the variation in North C
 ## Market Trends
 ![recent market trends 2019 onward](../graphs/recent_market_trends_2019_onward.png)
 
+## Training and Testing
+
+## Actual VS Prediction
+![2025 actual vs predicted ZHVI](../graphs/2025_actual_vs_predicted_ZHVI.png)
+
 ## Finale
 
 ## Limitations and Reflection
