@@ -12,10 +12,10 @@ This project will specifically look at the housing market in North Carolina and 
 ## Findings
 
 ## Correlation Heatmap & OLS
-
+![OLS model](../graphs/OLS.png)
 ![Correlation Heatmap](../graphs/recent_correlation_heatmap.png)
 
-Creating this heatmap with all relevant variables 
+The OLS model using 2019–2024 data explained 98.3% of the variation in North Carolina ZHVI (R-squared = 0.983). Population, housing units, median household income, building permits, and new listings were statistically significant predictors at the 5% level or below. Mortgage Rate, Homes Sold, and Active Listings were not significant, as they were above the 5% level. The correlation heatmap provides additional context by showing the relationships between ZHVI and the recent market variables, as well as the relationships among the predictors themselves. The strong correlations shown in the heatmap help explain the high overall R-squared of the OLS model, while correlations among the predictor variables may also contribute to differences between the simple relationships shown in the heatmap and the individual OLS coefficients. Although the OLS model has a very high R-squared, the low Durbin-Watson statistic (0.642) indicates positive autocorrelation in the residuals, which is important because the data are monthly time series, and so the data will follow closely with their closer relationships.
 
 ## Data Description
 
