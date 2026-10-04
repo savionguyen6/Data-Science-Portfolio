@@ -1,5 +1,6 @@
 ## Project 2 — Is it Possible to Predict North Carolina's Housing Market?
 
+---
 
 ## What's the Problem
 
@@ -9,19 +10,15 @@ The homes we live in, newly built or not, passed down from the past generation o
 
 This project will specifically look at the housing market in North Carolina and will use variables such as active listings, building permits, homes sold, housing units, median household income, mortgage rate, new listings, and population. All these variables will help determine/predict the Zillow Home Value Index (ZHVI) of North Carolina in 2025. 
 
-## Findings
-
-## Correlation Heatmap & OLS
-![OLS model](../graphs/OLS.png)
-![Correlation Heatmap](../graphs/recent_correlation_heatmap.png)
-
-The OLS model using 2019–2024 data explained 98.3% of the variation in North Carolina ZHVI (R-squared = 0.983). Population, housing units, median household income, building permits, and new listings were statistically significant predictors at the 5% level or below. Mortgage Rate, Homes Sold, and Active Listings were not significant, as they were above the 5% level. The correlation heatmap provides additional context by showing the relationships between ZHVI and the recent market variables, as well as the relationships among the predictors themselves. The strong correlations shown in the heatmap help explain the high overall R-squared of the OLS model, while correlations among the predictor variables may also contribute to differences between the simple relationships shown in the heatmap and the individual OLS coefficients. Although the OLS model has a very high R-squared, the low Durbin-Watson statistic (0.642) indicates positive autocorrelation in the residuals, which is important because the data are monthly time series, and so the data will follow closely with their closer relationships.
+---
 
 ## Data Description
 
-The data used in this project comes from several reliable sources, including the U.S. Census Bureau, Zillow, Freddie Mac, and the U.S. Bureau of Labor Statistics. These sources collect data that can help explain changes in the housing market. The U.S. Census Bureau provides information such as population, number of housing units, and median household income. The Census Bureau also provides building permit data, which shows the number of new homes that are approved to be built. Zillow provides housing price data that can be used to see how home prices have changed over time. Freddie Mac provides mortgage rate data, which can help show how borrowing costs can affect housing prices. The Bureau of Labor Statistics provides unemployment data that can also help explain changes in the economy and housing market.
+The data used in this project come from several reliable sources, including the U.S. Census Bureau, Zillow, Freddie Mac, and the U.S. Bureau of Labor Statistics. These sources collect data that can help explain changes in the housing market. The U.S. Census Bureau provides information such as population, number of housing units, and median household income. The Census Bureau also provides building permit data, which shows the number of new homes that are approved to be built. Zillow provides housing price data that can be used to see how home prices have changed over time. Freddie Mac provides mortgage rate data, which can help show how borrowing costs can affect housing prices. The Bureau of Labor Statistics provides unemployment data that can also help explain changes in the economy and housing market.
 
 These variables provide important information that can be used to answer the research question, “How will the housing market in North Carolina change in the next year?” By looking at past housing prices and other factors such as population, income, housing units, and mortgage rates, the project can find patterns that may help predict future housing prices. However, there are some weaknesses in the data. Housing prices can be affected by many things that are not included in the project, such as changes in the economy, interest rates, and buyer behavior. Because of this, the model can only provide an estimate of what may happen to the housing market and cannot guarantee what will happen.
+
+---
 
 ## Data Cleaning and Preparation
 
@@ -32,6 +29,21 @@ When it came to cleaning the data, it was only a bit of a nuisance because the 2
 With that information handled, moving on to each dataset. Each collected source contained a full set for the United States, so there would be no need to collect only North Carolina data to help answer the research question. After collecting each variable within each dataset for a specific, tailored time period, which was from 2005 to 2024, excluding 2020, I could finally create a whole dataset for this project with its specific features.
 
 However, it was not done because, looking at the CSV files, there was one that did not hold data going back as far as 2005, but only to 2019. So, a decision had to be made. Omit this CSV file with its variables because it did not have data starting from 2005, or only use data from all files starting from 2019. I chose to keep the file, include it in the final dataset, and start from 2019. The decision came from the thought that modern data would be more effective than stretching back to historical data, because looking at the closer economic standing with the present would provide a more accurate prediction.
+
+---
+
+## Findings
+
+---
+
+## Correlation Heatmap & OLS
+![OLS model](../graphs/OLS.png)
+![Correlation Heatmap](../graphs/recent_correlation_heatmap.png)
+
+The OLS model using 2019–2024 data explained 98.3% of the variation in North Carolina ZHVI (R-squared = 0.983). Population, housing units, median household income, building permits, and new listings were statistically significant predictors at the 5% level or below. Mortgage Rate, Homes Sold, and Active Listings were not significant, as they were above the 5% level. The correlation heatmap provides additional context by showing the relationships between ZHVI and the recent market variables, as well as the relationships among the predictors themselves. The strong correlations shown in the heatmap help explain the high overall R-squared of the OLS model, while correlations among the predictor variables may also contribute to differences between the simple relationships shown in the heatmap and the individual OLS coefficients. Although the OLS model has a very high R-squared, the low Durbin-Watson statistic (0.642) indicates positive autocorrelation in the residuals, which is important because the data are monthly time series, and so the data will follow closely with their closer relationships.
+
+## Scatter Regression Trend
+![recent market trend 2019 onward](../graphs/recent_market_trend_2019_onward.png)
 
 ## Finale
 
