@@ -103,6 +103,8 @@ There are also improvements that could have been made to the data used in this p
 
 Looking back on the project, the biggest limitation is not that there were not enough variables, but that there are too many things that can influence a housing market. A house is given a value by people, and those people make decisions based on things that cannot always be measured. Machine learning can find patterns in the numbers, but the numbers are still only a representation of what happened. They cannot completely explain why someone decides that one house is worth more than another or why an entire market suddenly changes. There is room for improvement in this project, but there is also a limit to how much information can be collected and used before it becomes too big or broad to predict. 
 
+## Code
+
 ## References
 
 U.S. Census Bureau. (n.d.). American Community Survey data via API. U.S. Department of Commerce. Retrieved September 29, 2026. Census ACS API
