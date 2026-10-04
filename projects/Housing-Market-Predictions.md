@@ -53,6 +53,8 @@ The OLS model using 2019–2024 data explained 98.3% of the variation in North C
 ## Actual VS Prediction
 ![2025 actual vs predicted ZHVI](../graphs/2025_actual_vs_predicted_ZHVI.png)
 
+![model prediction error comparison](../graphs/model_prediction_error_comparison.png)
+
 ## Finale
 
 ## Limitations and Reflection
