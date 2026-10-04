@@ -11,7 +11,11 @@ This project will specifically look at the housing market in North Carolina and 
 
 ## Findings
 
+## Correlation Heatmap & OLS
+
 ![Correlation Heatmap](../graphs/recent_correlation_heatmap.png)
+
+Creating this heatmap with all relevant variables 
 
 ## Data Description
 
