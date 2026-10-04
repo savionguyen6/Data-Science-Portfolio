@@ -105,6 +105,8 @@ Looking back on the project, the biggest limitation is not that there were not e
 
 ## Code
 
+[View the Python Code](../Project02.ipynb)
+
 ## References
 
 U.S. Census Bureau. (n.d.). American Community Survey data via API. U.S. Department of Commerce. Retrieved September 29, 2026. Census ACS API
